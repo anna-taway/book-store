@@ -9,9 +9,6 @@ const extra = (
     <Label style={{ marginLeft: "5px" }}>
       Fantastic
     </Label>
-    <Label style={{ marginLeft: "5px" }}>
-      Fun
-    </Label>
   </React.Fragment>
 );
 

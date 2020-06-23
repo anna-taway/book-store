@@ -1,4 +1,5 @@
 # Semantic-ui-react-henri-potier-store
+[![HitCount](http://hits.dwyl.com/JananyMano/book-store.svg)](http://hits.dwyl.com/JananyMano/book-store)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and used [semantic-ui-react](https://react.semantic-ui.com/). This project is a e-commerce platform with 2 user interfaces.
 

@@ -7,7 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - [x] 1st user interface : Store : Display the list of Books and allow user to search for a specific one
 
-![Screenshot](Store.png)
 - [x] 2nd user interface : Payment : Display the shopping cart details and the best discount
 
 ![Screenshot](Payment.png)
